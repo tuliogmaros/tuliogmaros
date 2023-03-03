@@ -11,14 +11,17 @@
 <h3 align="center">A humble software developer from Brazil.</h3>
 
 <br />
+
+- 🔭 I’m currently working on private projects with developer friends
+
 <br />
 
 <img align="middle" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" style="vertical-align: middle;" />
 
 
-<td align="right">
-<a href  text-align:"right"="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music here</strong>
+
+[Listen to cool music here](https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO)
+
 <br />
 <br />
 
