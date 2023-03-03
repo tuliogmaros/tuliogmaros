@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi there 👋, I'm Tulio</h1>
 
-<h3 align="center">A humble software developer from Brazil.</h3>
+<h3 align="center">A confused developer from Brazil.</h3>
 
 <br />
 
