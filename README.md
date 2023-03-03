@@ -10,7 +10,18 @@
 
 <h3 align="center">A humble software developer from Brazil.</h3>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="300" />
+<br />
+<br />
+
+<img align="middle" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" style="vertical-align: middle;" />
+
+
+<td align="right">
+<a href  text-align:"right"="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<strong>Listen to cool music here</strong>
+<br />
+<br />
+
 
 <h3 align="left">Languages and Tools:</h3>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
