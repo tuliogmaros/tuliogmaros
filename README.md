@@ -16,20 +16,21 @@
 
 <br />
 
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" style="vertical-align: middle;" />
+<p align="center" width="100%">
+   <img align="middle" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" style="vertical-align: middle;" />
+  <br />
+  <br />
+  <img align="middle" alt="yt" width="95" height="95" src="https://github.com/tuliogmaros/tuliogmaros/blob/main/eguitar.png" />
+</p>
 
 <br />
 
-
-[![Hehehe](https://github.com/tuliogmaros/tuliogmaros/blob/main/eguitar.png)](https://youtu.be/JTChRr0g7ho)
-
-<br />
-
-[Listen to cool music here](https://youtu.be/JTChRr0g7ho)
+<p align="center" width="100%">
+  <a href="https://youtu.be/JTChRr0g7ho">
+  </a>
+</p>
 
 <br />
-<br />
-
 
 <h3 align="left">OS:</h3>
 <div>
