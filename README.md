@@ -61,7 +61,7 @@
 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tuliogmaros&theme=dark&border=00ff00&ring=00ff00&fire=00ff00)](https://git.io/streak-stats)
-  
+![Túlio GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliogmaros&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
 
 <!--
 **tuliogmaros/tuliogmaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
