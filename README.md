@@ -64,7 +64,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tuliogmaros&theme=dark&border=00ff00&ring=00ff00&fire=00ff00)](https://git.io/streak-stats)
 
-![Túlio GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliogmaros&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
+[![tuliomaroz GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliogmaros)](https://github.com/tuliogmaros/github-readme-stats)
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliogmaros&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
